@@ -120,7 +120,7 @@ See [`mcp-servers/`](mcp-servers/) for full setup instructions and a list of dat
 | 49 | [Geoportal One Map](apis/tier7-civil-society/geoportal-onemap/) | BIG / KLHK | 85 thematic maps, One Map Policy | ✅ WMS/WFS |
 | 50 | [SIGAP / InaRisk](apis/tier7-civil-society/sigap-inarisk/) | BNPB | Disaster risk scores by location | ✅ REST API |
 | 51 | [pasal.id](apis/tier7-civil-society/pasal-id/) | Community (third-party) | 40K regulations, 937K articles via MCP | 🔵 MCP Ready |
-| 52 | [Parelegalku](apis/tier7-civil-society/paralegalku/) | Community (third-party) | 27K regulations (adding >219k), 446K articles | ✅ REST API |
+| 52 | [aturan.org](apis/tier7-civil-society/aturan-org/) | Community (third-party) | 243,852 regulations, 4,543,462 | ⚠️ Web search |
 
 ### Tier 8: New Additions (2026-03-29) — 5 sources
 
